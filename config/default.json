@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://kallavineeta:Vini.5992@mern-stack.albvf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"sl_myJwtSecret"
+}
